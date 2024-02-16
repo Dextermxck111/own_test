@@ -1,2 +1,4 @@
 Hello Everyone, I'm currently trying to learn git lol, it is coming
 along though.
+
+This is the second entry I am working on, on my own.
